@@ -1,11 +1,11 @@
-CREATE TABLE authors (
+CREATE TABLE IF NOT EXISTS authors (
     author_id INTEGER PRIMARY KEY AUTOINCREMENT,
     first_name TEXT NOT NULL,
     last_name TEXT NOT NULL,
     birthdate TEXT
 );
 
-CREATE TABLE books (
+CREATE TABLE IF NOT EXISTS books (
     book_id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT NOT NULL,
     published_year INTEGER,
