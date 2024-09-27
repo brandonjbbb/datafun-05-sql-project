@@ -1,0 +1,7 @@
+2024-09-27 17:23:38,779 - INFO - Program started
+2024-09-27 17:23:38,779 - INFO - Starting SQL operations
+2024-09-27 17:23:38,780 - INFO - Executed query from query_join.sql
+2024-09-27 17:23:38,780 - INFO - Executed query from query_sorting.sql
+2024-09-27 17:23:38,780 - INFO - Executed query from query_aggregation.sql
+2024-09-27 17:23:38,781 - INFO - SQL operations completed successfully
+2024-09-27 17:23:38,781 - INFO - Program ended
